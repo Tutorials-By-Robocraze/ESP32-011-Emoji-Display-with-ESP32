@@ -24,4 +24,4 @@ Here’s the **converted README-style project description** for your **Emoji Dis
 
 ---
 
-👉 Do you want me to also make a **short Instagram caption (under 300 characters)** for this emoji display reel?
+
